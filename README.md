@@ -9,5 +9,5 @@
   <a href='https://www.instagram.com/_raj._.d33p_/'><img src="https://img.icons8.com/bubbles/60/null/instagram-new--v2.png"/></a>
   <a href='https://in.linkedin.com/in/rajdeep-kerkar07'><img src="https://img.icons8.com/bubbles/60/null/linkedin.png"/></a>
   <a href='https://twitter.com/Evilemperor07'><img src="https://img.icons8.com/bubbles/60/null/twitter-circled.png"/></a>
-  <a href='rajdeepkerkar2800@gmail.com'><img src="https://img.icons8.com/bubbles/60/null/gmail.png"/></a>
+  <a href='mailto:rajdeepkerkar2800@gmail.com'><img src="https://img.icons8.com/bubbles/60/null/gmail.png"/></a>
 </p>
