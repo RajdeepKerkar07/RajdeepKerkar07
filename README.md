@@ -1,6 +1,6 @@
 ### Hi there!👋 Welcome to my github profile, I'm Rajdeep!
 ---
-- 👨🏽‍💻Currently learning C#, .Net & Angular
+- 👨🏽‍💻Currently learning Angular
 <p align>
   <img src ="https://user-images.githubusercontent.com/43118870/209341830-21ae1604-086d-4b2d-af93-bbbb8a4f6693.png" align='right'/>
 </p>
@@ -30,6 +30,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 <br>
 
