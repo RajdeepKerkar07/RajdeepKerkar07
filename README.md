@@ -24,7 +24,6 @@
 
 ### Lets connect and chat!
 <p>
-  <a href='https://twitter.com/Evilemperor07'><img src="https://img.icons8.com/bubbles/60/null/twitter-circled.png"/></a>
   <a href='https://in.linkedin.com/in/rajdeep-kerkar07'><img src="https://img.icons8.com/bubbles/60/null/linkedin.png"/></a>
 </p>
 
